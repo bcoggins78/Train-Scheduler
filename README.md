@@ -17,5 +17,7 @@ This project was built with:
 * Bootstrap
 * JavaScript
 * JQuery
+* Firebase
+* Moment.js
 
 ![Train Scheduler](/assets/images/screenshot.jpg)
