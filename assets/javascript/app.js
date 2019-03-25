@@ -9,8 +9,9 @@ $(document).ready(function () {
     storageBucket: "trainscheduler-dbaca.appspot.com",
     messagingSenderId: "480317516197"
   };
+  
   firebase.initializeApp(config);
-
+  
   // Creates the variable to reference the database
   var database = firebase.database();
 

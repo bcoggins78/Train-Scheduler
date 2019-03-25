@@ -1,0 +1,44 @@
+body {
+    background: url("../images/cheap_diagonal_fabric.png");
+}
+
+#title-box {
+    background: url("../images/sunset_raleighskyline.jpg");
+    background-position: 0px -175px;
+    background-size: 1120px, cover;
+    color: white;
+    font: 70px 'Dancing Script', cursive, Tahoma, Helvetica, Arial, Sans-Serif;
+    text-align: center;
+    font-size: 150%;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.text-background {
+    background-color: black;
+    box-shadow: 20px 20px white;
+    width: 45%;
+    margin: auto;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+
+.card-header {
+    background-color: darkblue;
+    color: white;
+    font-family: 'Zilla Slab', serif;
+}
+
+.card-body {
+    background-color: lightblue;
+    font-family: 'Zilla Slab', serif;
+}
+
+.card {
+    box-shadow: 10px 10px 5px grey; 
+}
+
+th,
+td,
+tr {
+    border: 0.5px darkblue
+}
